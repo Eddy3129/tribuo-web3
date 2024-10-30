@@ -36,4 +36,10 @@ You can find our detailed pitch deck [here](https://www.canva.com/design/DAGUvpR
 Watch a quick intro of the Dapp on [YouTube](https://youtu.be/6Xt-G_RwT2k).
 
 ---
+## Deployment on Devnet
+Heres the link you can check out for our smart contract being deployed on Solana devnet and Soon devnet:
+Solana devnet [here](https://explorer.solana.com/address/5p3BC3xzdS5pabm6ZWZZg9i5PFgUPyiN4mSGcHVnHxwf?cluster=devnet)
+Soon devnet [here](https://explorer.devnet.soo.network/address/5p3BC3xzdS5pabm6ZWZZg9i5PFgUPyiN4mSGcHVnHxwf?cluster=devnet)
+Initializing account transaction [here](https://explorer.devnet.soo.network/tx/5QyG2ZV4YWCGS8xCbhEDL3fgSkSYUhNX4Mmd2KZPVo1BZWxjwcHYsr8HrkaWY9UEubVZGcE6Vnhqj1Yi1vbKWqhF?cluster=devnet)
+
 Thank you for checking out Tribuo!
