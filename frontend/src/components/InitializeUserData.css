@@ -1,0 +1,144 @@
+/* src/components/InitializeUserData.css */
+
+/* Container for the InitializeUserData component */
+.initialize-user-data {
+    background-color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto 40px auto; /* Center the card and add bottom margin */
+  }
+  
+  /* Heading styles */
+  .initialize-user-data h3 {
+    margin-bottom: 20px;
+    color: #0077cc;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  
+  /* Initialize Button Styles */
+  .initialize-user-data button.initialize-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #0077cc;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .initialize-user-data button.initialize-button:hover {
+    background-color: #005fa3;
+  }
+  
+  /* Input Fields Styles */
+  .initialize-user-data input {
+    width: 100%;
+    padding: 10px 12px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+    box-sizing: border-box;
+  }
+  
+  /* Log Workout Button Styles */
+  .initialize-user-data button.log-workout-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #28a745;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .initialize-user-data button.log-workout-button:hover {
+    background-color: #1e7e34;
+  }
+  
+  /* Workout Log Section */
+  .workout-log {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .workout-log h4 {
+    margin-bottom: 10px;
+    color: #0077cc;
+    font-size: 1.2rem;
+  }
+  
+  .workout-log ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .workout-log li {
+    background-color: #f8f9fa;
+    padding: 10px 15px;
+    margin-bottom: 8px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Transaction Signature Section */
+  .transaction-signature {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .transaction-signature h4 {
+    margin-bottom: 10px;
+    color: #0077cc;
+    font-size: 1.2rem;
+  }
+  
+  .transaction-signature p {
+    word-break: break-all;
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+  }
+  
+  .transaction-signature a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .transaction-signature a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    .initialize-user-data {
+      padding: 20px;
+      max-width: 90%;
+    }
+  
+    .initialize-user-data h3 {
+      font-size: 1.3rem;
+    }
+  
+    .initialize-user-data button.initialize-button,
+    .initialize-user-data button.log-workout-button {
+      font-size: 0.95rem;
+      padding: 10px;
+    }
+  
+    .workout-log h4,
+    .transaction-signature h4 {
+      font-size: 1.1rem;
+    }
+  }
+  

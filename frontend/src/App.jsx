@@ -4,7 +4,7 @@ import { ConnectionProvider, WalletProvider } from '@solana/wallet-adapter-react
 import { WalletModalProvider, WalletMultiButton } from '@solana/wallet-adapter-react-ui';
 import { PhantomWalletAdapter } from '@solana/wallet-adapter-wallets';
 import TrainerCard from './components/TrainerCard';
-import HelloWorldInteraction from './components/LogWorkout';
+import InitializeUserData from './components/InitializeUser';
 import 'react-toastify/dist/ReactToastify.css';
 import '@solana/wallet-adapter-react-ui/styles.css';
 
@@ -21,12 +21,10 @@ const App = () => {
             <header>
               <WalletMultiButton />
             </header>
-            {/* Add HelloWorldInteraction component */}
-            <HelloWorldInteraction />
+            <InitializeUserData />
             <div className="trainers">
               <TrainerCard name="John Doe" speciality="Strength Training" price={0.5} />
               <TrainerCard name="Jane Smith" speciality="Yoga" price={0.3} />
-              {/* Add more TrainerCards as needed */}
             </div>
           </div>
         </WalletModalProvider>

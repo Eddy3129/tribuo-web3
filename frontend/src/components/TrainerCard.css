@@ -1,0 +1,41 @@
+/* src/components/TrainerCard.css */
+
+.trainer-card {
+    background-color: #ffffff;
+    padding: 20px 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .trainer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .trainer-card h3 {
+    margin-top: 0;
+    color: #0077cc;
+  }
+  
+  .trainer-card p {
+    margin: 10px 0;
+    color: #555555;
+  }
+  
+  .trainer-card button {
+    padding: 10px 15px;
+    background-color: #ff5722;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .trainer-card button:hover {
+    background-color: #e64a19;
+  }
+  
