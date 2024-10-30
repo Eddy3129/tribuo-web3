@@ -41,7 +41,7 @@ View how the app interacts with the Soon Network [here](https://www.canva.com/de
 
 ---
 ## Deployment on Devnet
-Heres the link you can check out for our smart contract being deployed on Solana devnet and Soon devnet:
+Heres the link you can check out for our program being deployed on Solana devnet and Soon devnet:
 
 Solana devnet [here](https://explorer.solana.com/address/5p3BC3xzdS5pabm6ZWZZg9i5PFgUPyiN4mSGcHVnHxwf?cluster=devnet)
 
