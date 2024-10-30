@@ -47,6 +47,4 @@ Solana devnet [here](https://explorer.solana.com/address/5p3BC3xzdS5pabm6ZWZZg9i
 
 Soon devnet [here](https://explorer.devnet.soo.network/address/5p3BC3xzdS5pabm6ZWZZg9i5PFgUPyiN4mSGcHVnHxwf?cluster=devnet)
 
-Initializing account transaction [here](https://explorer.devnet.soo.network/tx/5QyG2ZV4YWCGS8xCbhEDL3fgSkSYUhNX4Mmd2KZPVo1BZWxjwcHYsr8HrkaWY9UEubVZGcE6Vnhqj1Yi1vbKWqhF?cluster=devnet)
-
 Thank you for checking out Tribuo!
