@@ -33,7 +33,7 @@ You can find our detailed pitch deck [here](https://www.canva.com/design/DAGUvpR
 
 ## Demo Video
 
-Watch a quick walkthrough of the Dapp on [YouTube](https://youtu.be/6Xt-G_RwT2k).
+Watch a quick intro of the Dapp on [YouTube](https://youtu.be/6Xt-G_RwT2k).
 
 ---
 Thank you for checking out Tribuo!
