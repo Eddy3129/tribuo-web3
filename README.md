@@ -31,9 +31,13 @@ Welcome to the Tribuo! This is a decentralized socialFi platform designed to inc
 
 You can find our detailed pitch deck [here](https://www.canva.com/design/DAGUvpRhdiE/3QAqwDYj1EIxudRZJ1aUOA/edit?utm_content=DAGUvpRhdiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-## Demo Video
+## Elevator pitch
 
-Watch a quick intro of the Dapp on [YouTube](https://youtu.be/6Xt-G_RwT2k).
+Watch the elevator pitch of Tibuo on [YouTube](https://youtu.be/6Xt-G_RwT2k).
+
+## Demo video
+
+View how the app interacts with the Soon Network [here](https://www.canva.com/design/DAGVCo-Z2y0/r4HMA-O1pjBzPGW-rCj6jA/edit?utm_content=DAGVCo-Z2y0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Or you can also try it yourself by clicking on the website in the description. 
 
 ---
 ## Deployment on Devnet
